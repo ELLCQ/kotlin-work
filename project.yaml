@@ -1,5 +1,7 @@
 modules:
   - portfolio/week1
+  - portfolio/week2/redact
+  - portfolio/week2/triangles
   - tasks/task2_3
   - tasks/task4_3
   - tasks/task4_4
